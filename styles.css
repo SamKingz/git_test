@@ -1,0 +1,12 @@
+.imp{
+    color:royalblue; font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+}
+h1{
+    color:crimson; font-size: 60px;
+}
+.imp.main{
+    background-color: lightcoral;
+}
+.main{
+    color:darkblue;
+}
